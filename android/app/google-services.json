@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839010628886",
+    "project_id": "chequewallet-29178",
+    "storage_bucket": "chequewallet-29178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839010628886:android:af8a726e7a83dfb3cc4c37",
+        "android_client_info": {
+          "package_name": "com.sdh.chequewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839010628886-mo59tt4gd9135cma1ae9511gvoue89df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03AxdEHvC7zOFR-BSULsV5XX-LQl6ds0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839010628886-mo59tt4gd9135cma1ae9511gvoue89df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
